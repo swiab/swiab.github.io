@@ -4,7 +4,10 @@
     "details": [
       {
         "appID": "QS9LQ3Q4ZB.com.yahoo.twNews",
-        "paths": [ "*" ]
+        "paths": [ 
+          "NOT /news/",
+          "/news/*"
+        ]
       }
     ]
   }
