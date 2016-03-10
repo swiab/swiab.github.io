@@ -1,13 +1,10 @@
 {
-    "applinks": {
-        "apps": [],
-        "details": {
-            "QS9LQ3Q4ZB.com.yahoo.twNews": {
-                "paths": [
-                   "NOT /news/",
-                   "/news/*"
-                ]
-            }
-        }
-    }
-}
+  "applinks": {
+    "apps": [],
+    "details": [
+      {
+        "appID": "QS9LQ3Q4ZB.com.yahoo.twNews",
+        "paths": [ "*" ]
+      }
+    ]
+  }
