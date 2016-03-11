@@ -6,7 +6,8 @@
         "appID": "QS9LQ3Q4ZB.com.yahoo.twNews",
         "paths": [ 
            "NOT /news/",
-           "/news/*"
+           "/news/*",
+           "/lightbox/*"
         ]
       }
     ]
